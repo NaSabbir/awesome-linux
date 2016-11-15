@@ -365,7 +365,7 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 
  > Find better alternatives to the software you already use or a replacement for software you cannot or do not want to use.
 
-#### [Linux Foundation](www.linuxfoundation.org)
+#### [Linux Foundation](https://www.linuxfoundation.org)
 
 > The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2000, The Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.
 
@@ -384,6 +384,10 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 #### [Opensource.com](http://opensource.com)
 
 > Opensource.com is an online publication focused on how open source is applied to different areas including business, education, government, health, law and other disciplines of life.
+
+#### [Distrowatch](http://distrowatch.com/)
+
+> DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions as well as other free software/open source. Its page rankings are "a light-hearted way of measuring the popularity of Linux distributions and other free operating systems among the visitors of this website.
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
 
